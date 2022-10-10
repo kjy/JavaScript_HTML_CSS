@@ -5,7 +5,13 @@ JavaScript, HTML, CSS
 
 
 
-[Textbook: ](https://education.launchcode.org/intro-to-professional-web-dev)
+
+### Launchcode LC101: Unit 1: JavaScript, VS Code editor, Jasmine, Angular, TypeScript, HTML, and CSS, Launchcode.org, (13 weeks, September – December 2020). Canvas, repl.it, Slack, and  Zoom. 
+
+(https://education.launchcode.org/intro-to-professional-web-dev)
 
 
-[Code: ](https://replit.com/@yangkaren?path=folder/LauchCodeLC101_Unit1_JavaScript_HTML_CSS)
+
+### Code in repl.it
+
+(https://replit.com/@yangkaren?path=folder/LauchCodeLC101_Unit1_JavaScript_HTML_CSS)
