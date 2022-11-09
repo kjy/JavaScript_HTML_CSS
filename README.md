@@ -12,11 +12,6 @@ JavaScript, HTML, CSS
 
 
 
-### Textbook
-
-(https://education.launchcode.org/intro-to-professional-web-dev)
-
-
 
 
 
